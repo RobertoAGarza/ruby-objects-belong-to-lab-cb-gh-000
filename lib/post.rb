@@ -6,6 +6,6 @@ class Post
   end
 
   def author
-    @author 
-  end 
+    @author
+  end
 end
