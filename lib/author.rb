@@ -1,9 +1,8 @@
 class Author
-  attr_accessor :name
-
-
+  attr_accessor :name :post
 
   def name
     @name
   end
-end 
+
+end
